@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SuperPower.PrjPcb]
+   Generated File[SuperPower.TXT]
+   Generated File[SuperPower.LDP]
+   Generated File[SuperPower.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:22:14 On 2022/2/14
